@@ -44,7 +44,7 @@ export function WhatIAmLearning() {
         "SQL"
     ];
     return <>
-        <h1 className="text-green-50">
+        <h1 className="text-green-500">
             What I'm Learning
         </h1>
         <ImLearningList imLearning={whatIAmLearning}/>
