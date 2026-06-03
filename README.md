@@ -1,7 +1,7 @@
 Hi there! I'm eves26phylum, or @greatfuton on Discord (1452979245113413665).
 
 ```sql
-INSERT INTO email_address (email)
+INSERT INTO contact_me (email)
 VALUES ("juriton@proton.me");
 ```
 ```rust
