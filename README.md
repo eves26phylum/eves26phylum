@@ -6,6 +6,7 @@ VALUES ("juriton@proton.me");
 ```
 ```rust
 let mut tool_stack = vec!["Visual Studio Code", "Unix-Style Shell Commands"];
+println!("{:?}", tool_stack);
 ```
 ```lua
 function knowAboutWhatICanDoWell()
@@ -28,24 +29,25 @@ function ImLearningList({imLearning}: {imLearning: string[]}) {
     return <ul>
         {imLearning.map((value: string, index: number, array: readonly string[]) => {
             return <li key={index}>
-                I'm Learning {value}
+                I'm learning {value}
             </li>
         })}
     </ul>;
 }
 
 export function WhatIAmLearning() {
+    const whatIAmLearning = [
+        "React",
+        "CSS",
+        "Rust",
+        "Bevy API",
+        "SQL"
+    ];
     return <>
         <h1 className="text-green-50">
             What I'm Learning
         </h1>
-        <ImLearningList imLearning={[
-            "React",
-            "CSS",
-            "Rust",
-            "Bevy API",
-            "SQL"
-        ]}/>
+        <ImLearningList imLearning={whatIAmLearning}/>
     </>;
 }
 ```
