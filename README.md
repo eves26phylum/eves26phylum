@@ -1,9 +1,12 @@
 Hi there! I'm eves26phylum, or @greatfuton on Discord (1452979245113413665).
 
-const contactAddress = "juriton@proton.me";
-
-let mut tool_stack = vec!["Visual Studio Code", "Fundamental Knowledge of Shell Commands"];
-
+```sql
+INSERT INTO email_address (email)
+VALUES ("juriton@proton.me");
+```
+```rust
+let mut tool_stack = vec!["Visual Studio Code", "Unix-Style Shell Commands"];
+```
 ```lua
 function knowAboutWhatICanDoWell()
     return {
@@ -14,9 +17,13 @@ function knowAboutWhatICanDoWell()
         "HTML"
     }
 end
-return knowAboutWhatICanDoWell
+return {
+    knowAboutWhatICanDoWell = knowAboutWhatICanDoWell
+}
 ```
 ```tsx
+import { useState } from "react";
+
 function ImLearningList({imLearning}: {imLearning: string[]}) {
     return <ul>
         {imLearning.map((value: string, index: number, array: readonly string[]) => {
@@ -27,20 +34,20 @@ function ImLearningList({imLearning}: {imLearning: string[]}) {
     </ul>;
 }
 
-function WhatIAmLearning() {
+export function WhatIAmLearning() {
     return <>
         <h1 className="text-green-50">
             What I'm Learning
         </h1>
+        <ImLearningList imLearning={[
+            "React",
+            "CSS",
+            "Rust",
+            "Bevy API",
+            "SQL"
+        ]}/>
     </>;
 }
-
 ```
-What I'm learning
-- React
-- CSS
-- Rust
-- Bevy API
-- SQL
 
 I am a self-taught developer looking forward to growth, I have been working in the software field for 5 years—making small projects with the ROBLOX game engine (this year forward I am trying types of development besides Game Development).
