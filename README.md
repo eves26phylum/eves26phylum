@@ -11,10 +11,10 @@ println!("{:?}", tool_stack);
 ```lua
 function knowAboutWhatICanDoWell()
     return {
+        "Roblox Engine API",
         "Roblox Luau",
         "Lua 5.1",
         "TypeScript/JavaScript",
-        "Roblox Engine API",
         "HTML"
     }
 end
