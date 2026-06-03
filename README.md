@@ -52,4 +52,5 @@ export function WhatIAmLearning() {
 }
 ```
 
-I am a self-taught developer looking forward to growth, I have been working in the software field for 5 years—making small projects with the ROBLOX game engine (this year forward I am trying types of development besides Game Development).
+I am a self-taught developer looking forward to growth, I have been working in the software field for 5 years—I have made small projects with the ROBLOX game engine in the past.
+From this year forward, I am trying types of development besides Game Development.
