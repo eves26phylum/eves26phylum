@@ -56,7 +56,7 @@ I am a self-taught developer looking forward to growth, I have been working in t
 From this year forward, I am trying different types of development besides Game Development. -->
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,apple,vite,vscode)](https://skillicons.dev)                                       
 [![My Skills](https://skillicons.dev/icons?i=lua,ts,js,html,react)](https://skillicons.dev)                                       
-[![My Skills](https://skillicons.dev/icons?i=css,rust,bevy,mysql,discordjs)](https://skillicons.dev)                                       
+[![My s](https://skillicons.dev/icons?i=css,rust,bevy,mysql,discordjs)](https://skillicons.dev)                                       
 Hi there! I'm eves26phylum, a 15 year old self-taught full-stack developer who is interested into the field of Game Development. I have been learning programming for 5 years.
 I'm interested in software development and creative planning. This year, I am thinking about alternate paths besides Game Development.
 Contact me at:
