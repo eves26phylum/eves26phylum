@@ -54,3 +54,8 @@ export function WhatIAmLearning() {
 
 I am a self-taught developer looking forward to growth, I have been working in the software field for 5 years—I have made small projects with the ROBLOX game engine in the past.
 From this year forward, I am trying different types of development besides Game Development. -->
+
+Hi there! I'm eves26phylum, a 15 year old self-taught developer who is interested into the field of Game Development. I have been learning programming for 5 years.
+Contact me at:
+- @greatfuton on Discord (1452979245113413665).
+- juriton@proton.me
