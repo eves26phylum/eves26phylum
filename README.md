@@ -1,4 +1,4 @@
-Hi there! I'm eves26phylum, or @greatfuton on Discord (1452979245113413665).
+<!-- Hi there! I'm eves26phylum, or @greatfuton on Discord (1452979245113413665).
 
 ```sql
 INSERT INTO contact_me (email)
@@ -53,4 +53,4 @@ export function WhatIAmLearning() {
 ```
 
 I am a self-taught developer looking forward to growth, I have been working in the software field for 5 years—I have made small projects with the ROBLOX game engine in the past.
-From this year forward, I am trying different types of development besides Game Development.
+From this year forward, I am trying different types of development besides Game Development. -->
