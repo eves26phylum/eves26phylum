@@ -1,2 +1,1 @@
-Hi there! I'm eves26phylum, a 15 year old self-taught full-stack developer who is interested into the field of Game Development. I have been learning programming for 5 years.
-I'm interested in software development and creative planning. This year, I am thinking about alternate paths besides Game Development.
+The world before the internet...
