@@ -1,1 +1,3 @@
-A guy on the internet who likes macOS
+Hello!
+https://index.eves26phylum.workers.dev/
+https://codeberg.org/eves26phylum/
